@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fifthhive
 - 👀 I’m interested in web development and python for data science
-- 🌱 I’m currently learning HTML,CSS,JAVA and Python
+- 🌱 I’m currently learning HTML,CSS,Javascript, React.js, Node.js, SQL and Python
 - 💞️ I’m looking to collaborate on Web development projects and Data science projects 
 - 📫 How to reach me via my email: ademolaadedapo2020@gmail.com
 
